@@ -11,5 +11,5 @@ Use remesh command in blender.
 
 **Interaction between SolidWorks and blender**:
 
-1.Draw models in SolidWorks and export models as stl file.
-2.Import stl files into blender and export them as obj files. Then plug in obj files in Chrono.
+1. Draw models in SolidWorks and export models as stl file.
+2. Import stl files into blender and export them as obj files. Then plug in obj files in Chrono.
